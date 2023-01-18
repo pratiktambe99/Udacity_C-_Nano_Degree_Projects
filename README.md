@@ -12,4 +12,4 @@
 
 ## Udacity C++ Nano Degree Certificate
 
-![Certificate](Udacity C++.PNG)
+<img src="Udacity C++.PNG" title="Udacity C++ Nanodegree Certificate">
